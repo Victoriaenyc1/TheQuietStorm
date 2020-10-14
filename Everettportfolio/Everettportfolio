@@ -1,0 +1,32 @@
+#everything {
+  mar#everything {
+  margin-top: 100px;
+}
+
+#beatles-images {
+  padding-left: 20px;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+#separate-p-tags {
+  background-color: blue;
+}
+gin-top: 100px;
+}
+
+#beatles-images {
+  padding-left: 20px;
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
+
+#separate-p-tags {
+  background-color: blue;
+}
