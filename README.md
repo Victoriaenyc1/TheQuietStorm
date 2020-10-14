@@ -1,1 +1,1 @@
-# TheQuietStorm is a newbie at Github.
+# TheQuietStorm is a Github newbie.
